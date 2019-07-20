@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Project Hacker Toolset",
+"dataUrl": "Hacker Toolset v1 web build.data.unityweb",
+"asmCodeUrl": "Hacker Toolset v1 web build.asm.code.unityweb",
+"asmMemoryUrl": "Hacker Toolset v1 web build.asm.memory.unityweb",
+"asmFrameworkUrl": "Hacker Toolset v1 web build.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
